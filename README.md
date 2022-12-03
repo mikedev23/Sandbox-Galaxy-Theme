@@ -5,7 +5,7 @@
 
 ## Screenshot
 
-![Logo icon](sandbox-galaxy-screenshot.png)
+![Sandbox Galaxy Preview](https://raw.githubusercontent.com/mikedev23/Sandbox-Galaxy-Theme/main/images/sandbox-galaxy-screenshot.png)
 
 &nbsp;
 ## **Enjoy & Rate if you liked!**
