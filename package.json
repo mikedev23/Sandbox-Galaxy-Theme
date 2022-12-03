@@ -1,0 +1,35 @@
+{
+  "name": "sandbox-galaxy",
+  "publisher": "mikedev23",
+  "displayName": "Sandbox Galaxy",
+  "description": "A theme combo of ayu midas, celestial and underdark to help with long hours of coding ",
+  "author": {
+    "name": "Michael Haji"
+  },
+  "license": "MIT",
+  "version": "0.0.1",
+  "icon": "sandbox.png",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "vs code",
+    "galaxy",
+    "ayu",
+    "night"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sandbox Galaxy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sandbox Galaxy-color-theme.json"
+      }
+    ]
+  }
+}
