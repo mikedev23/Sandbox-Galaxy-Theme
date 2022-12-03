@@ -2,13 +2,18 @@
   "name": "sandbox-galaxy",
   "publisher": "mikedev23",
   "displayName": "Sandbox Galaxy",
-  "description": "A theme combo of ayu midas, celestial and underdark to help with long hours of coding ",
+  "description": "A theme combo of ayu midas, celestial and underdark",
   "author": {
-    "name": "Michael Haji"
+    "name": "Mikedev23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikedev23/Sandbox-Galaxy-Theme"
   },
   "license": "MIT",
-  "version": "0.0.1",
-  "icon": "sandbox.png",
+  "version": "0.0.3",
+  "icon": "images/sandbox.png",
+  "homepage": "https://github.com/mikedev23",
   "engines": {
     "vscode": "^1.0.0"
   },
